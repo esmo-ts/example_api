@@ -1,1 +1,1 @@
-{"id":"32834da3-1ea6-44dc-8d03-c44a24c01a51","space":28496,"runtime":"python3.9","name":"app","path":"q8eaa4","project":"a0doaaij","account":"144798365827","region":"eu-central-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"off","cron":""}
+{"id":"32834da3-1ea6-44dc-8d03-c44a24c01a51","space":28496,"runtime":"python3.9","name":"app","path":"q8eaa4","project":"a0doaaij","account":"144798365827","region":"eu-central-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"debug","cron":""}
